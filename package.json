@@ -1,0 +1,18 @@
+{
+  "name": "plataforma-de-perguntas",
+  "version": "1.0.0",
+  "description": "Uma plataforma de perguntas e respostas, semelhante ao Yahoo Respostas e Ask me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel de Oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.21.3"
+  }
+}
