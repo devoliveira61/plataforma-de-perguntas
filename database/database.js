@@ -3,7 +3,7 @@ const Sequelize = require("sequelize");
 const connection = new Sequelize(
   "plataformadeperguntas",
   "root",
-  "zannogames",
+  "12345678",
   {
     host: "localhost",
     dialect: "mysql",
